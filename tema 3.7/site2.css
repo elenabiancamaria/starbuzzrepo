@@ -7,10 +7,11 @@ h1{
     text-align: left;
     margin-left: 300px;
 
-    
 }
 img{
     margin-left: 300px;
+    border size: 300px 200px;
+    
  
     
 }
@@ -28,8 +29,8 @@ p{
     font-style: normal;
     color: black;
     border-color: white;
-   
-    font-size: 15px;
+    line-height: 20px;
+    font-size: 14px;
   
     margin-left: 300px;
 }
