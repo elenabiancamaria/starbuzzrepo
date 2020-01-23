@@ -1,0 +1,36 @@
+
+
+h1{
+    font-family: Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 30px;
+    text-align: left;
+    margin-left: 300px;
+
+    
+}
+img{
+    margin-left: 300px;
+ 
+    
+}
+
+h2{
+    font-family: Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 30px;
+    margin-left: 300px;
+
+}
+
+p{  
+    font-family: Helvetica, sans-serif;
+    font-style: normal;
+    color: black;
+    border-color: white;
+   
+    font-size: 15px;
+  
+    margin-left: 300px;
+}
+
