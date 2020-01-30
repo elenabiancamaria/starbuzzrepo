@@ -1,0 +1,35 @@
+body{
+
+
+    background-color: burlywood;
+    height:1400px;
+   
+  
+
+}
+div h1:first-child{
+    font-size: 60px;
+    position: relative;
+    left: 20px;
+    background-color: burlywood;
+    border-color: chocolate;
+    border: 20px;
+    width: 300px;
+    text-align: right;
+    margin-left: 1px;
+    font-family: 'Fascinate', cursive;
+    color: rgb(168, 97, 9)
+}
+div p:last-child{
+    font-size: 20px;
+    text-align: right;
+    color: white;
+    font-family: 'Fascinate', cursive;
+    width:300px;  
+    position: absolute;
+    left: 1000px;
+    top: 50px;
+}
+hr{
+    height:5px;
+}
