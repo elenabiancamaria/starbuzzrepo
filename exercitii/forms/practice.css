@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+form{
+    background-color: lightgray;
+    width: 60%;
+    padding: 0.5em;
+}
+input, select{
+    display: block;
+    margin: 0.5em;
+}
+input[type=text]{
+    width: 95%;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    padding: 1em 2em;
+
+}
+input[type=submit] {
+    width: 95%;
+    background-color: rgb(80, 174, 85);
+    color: white;
+    font-size: 1.1em;
+    padding: 0.5em;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+input[type=submit] :hover {
+    background-color: rgb(92, 21, 21);
+}
+select{
+    width: 95%;
+    color: royalblue;
+    background-color: sandybrown;
+    font-size: 1.1em;
+    
+}
